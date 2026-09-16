@@ -27,4 +27,4 @@ node execution.js # execution order demo
 - Dice roll history saved to text file
 
 ## Author
-Siya Singh
+Kanishka Awana
